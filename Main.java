@@ -21,7 +21,7 @@ public class Main extends Applet implements Runnable{
 	public static Dimension size = new Dimension(width, height); //setting screen size dimension
 	
 	//window and screen
-	private static String name = "Computational Geometry HW#1"; //name of window
+	private static String name = "Testing GITHUB"; //name of window
 	public static Image screen; //image for the screen
 	
 	//main-constructor
